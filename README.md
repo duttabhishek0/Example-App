@@ -15,7 +15,7 @@ http://localhost:8000/exampleapp/universities/?country=India&page=21
 
 <details>
  <summary>Sample Output:</summary>
- 
+
  ```
  {
     "count": 814,
@@ -150,4 +150,3 @@ http://localhost:8000/exampleapp/universities/?country=India&page=21
 ## Frontend
 
 🚧 Under Progress!
-
