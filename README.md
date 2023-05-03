@@ -24,7 +24,7 @@ Params :
 
 
 ```
-http://localhost:8000/exampleapp/universities/?country=<Country Name>&page=<Page Number>
+http://localhost:8000/exampleapp/universities/?country=<CountryName>&page=<PageNumber>
 ```
 
 <details>
