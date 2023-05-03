@@ -11,7 +11,7 @@ const Favourites = () => {
     }, []);
 
     return (
-        <div style={{ marginTop: '20px' }}>
+        <div style={{ marginTop: '20px',  marginLeft: '40px', marginRight: '40px' }}>
             <h2>My Favourites</h2>
             {favourites.length === 0 ? (
                 <div> No favourites selected yet!</div>

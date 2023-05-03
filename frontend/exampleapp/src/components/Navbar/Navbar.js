@@ -6,8 +6,6 @@ import FavoriteUniversity from '../FavoriteUniversity'
 function ColorSchemesExample() {
   return (
     <>
-     
-      <br />
       <Navbar bg="primary" variant="dark">
         <Container>
           <Navbar.Brand >University List</Navbar.Brand>
