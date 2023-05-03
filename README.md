@@ -1,16 +1,30 @@
 # Example-App
 
+Landing Page:
+
+![Screenshot from 2023-05-03 09-43-50](https://user-images.githubusercontent.com/56694152/235831949-fd059ecf-39db-4cc9-982a-7b042d3301c8.png)
+
+Favourites Page:
+
+![image](https://user-images.githubusercontent.com/56694152/235831909-c2eba50a-0733-443b-b327-1e426debbf75.png)
+
+## Features:
+1. Get univeristies by country
+2. Save your favourite university locally in the browser
+
 ## Backend Part:
 
 Purely done in python-django
+
 
 ### GET API to fetch Institute Data
 Params : 
 1. country
 2. Page
 
+
 ```
-http://localhost:8000/exampleapp/universities/?country=India&page=21
+http://localhost:8000/exampleapp/universities/?country=<Country Name>&page=<Page Number>
 ```
 
 <details>
@@ -147,6 +161,5 @@ http://localhost:8000/exampleapp/universities/?country=India&page=21
 ```
 </details>
 
-## Frontend
-
-🚧 Under Progress!
+### Output (Postman):
+![image](https://user-images.githubusercontent.com/56694152/235831427-9fd3b3d7-26b0-4efa-9e44-2bc170892e59.png)
